@@ -1,0 +1,20 @@
+{
+    "name": "vcn/merge-neon",
+    "description": "Command to merge NEON files",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erik van Velzen",
+            "email": "evvelzen@vcn.nl"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "nette/neon": "^3.1",
+        "laminas/laminas-stdlib": "^3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}

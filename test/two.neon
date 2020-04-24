@@ -1,0 +1,4 @@
+root:
+    overwritten: 2
+    merged:
+        - 6
